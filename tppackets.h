@@ -1,5 +1,5 @@
 /*
-File: printf.h
+File: tppackets.h
 
  Copyright (c) 2017 Tomas Piga
 
@@ -15,9 +15,9 @@ File: printf.h
  list of conditions and the following disclaimer in the documentation and/or other
  materials provided with the distribution.
 
- Neither the name of the Kustaa Nyholm or SpareTimeLabs nor the names of its
- contributors may be used to endorse or promote products derived from this software
- without specific prior written permission.
+ Neither the name of Tomas Piga nor the names of its contributors may be used to 
+ endorse or promote products derived from this software without specific prior 
+ written permission.
 
  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
  AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
@@ -35,7 +35,7 @@ File: printf.h
 To see more information on these classes and their functionality, read the readme.txt
 or visit the wikipage/git repo.
 
-12/05/2017
+ 12/05/2017
 */
 
 #ifndef TP_PACKETS

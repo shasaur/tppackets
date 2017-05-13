@@ -1,5 +1,5 @@
 /*
-File: printf.h
+File: tppackets.c
 
  Copyright (c) 2017 Tomas Piga
 
@@ -29,6 +29,11 @@ File: printf.h
  WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
  ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY
  OF SUCH DAMAGE.
+
+ ----------------------------------------------------------------------
+
+To see more information on these classes and their functionality, read the readme.txt
+or visit the wikipage/git repo.
 
  12/05/2017
 */
